@@ -8,7 +8,7 @@ public class PersonController {
 	
 	@RequestMapping("/getname")
 	public String getName() {
-		return "Anusree";
+		return "Hiii...This is Anusree V !!!";
 	}
 
 }
